@@ -20,4 +20,4 @@
    
 Контакты:
   - Email: `tanya.alm94@gmail.com`  
-  - Telegram: `@wildredtank`  
+  - Telegram: `https://t.me/@wildredtank`  
