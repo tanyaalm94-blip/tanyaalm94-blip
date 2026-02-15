@@ -19,5 +19,5 @@
  - сегментация данных.
    
 Контакты:
-  - Email: `tanya.alm94@gmail.com`  
+  - Email: mailto:tanya.alm94@gmail.com  
   - Telegram: https://t.me/wildredtank  
